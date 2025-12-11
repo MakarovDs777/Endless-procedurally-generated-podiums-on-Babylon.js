@@ -16,3 +16,6 @@
 
 [Podiums on Babylon.js (Version 3 - Endless procedurally generated Cross Podiums XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#6EKDKM)
 
+Просто подиум с бесконечную генерацию в одну сторону X в положительном направлении...
+
+[Podiums on Babylon.js (Version 4 - Endless procedurally generated podium X+ version) | Babylon.js Playground](https://playground.babylonjs.com/#MW1WU9#0)
