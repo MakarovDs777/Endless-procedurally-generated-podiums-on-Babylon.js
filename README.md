@@ -10,5 +10,4 @@
 
 Бесконечные вертикальные процедурно генерируемые подиумы от -XY к +XY.
 
-[Podiums on Babylon.js (Version 2 - Endless procedurally generated podiums -XY and +XY) | Babylon.js Playground](https://playground.babylonjs.com/#1EKNMV)
-
+[Podiums on Babylon.js (Version 2 - Endless procedurally generated podiums -XY and +XY) | Babylon.js Playground](https://playground.babylonjs.com/#1EKNMV#1)
