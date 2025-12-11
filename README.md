@@ -11,3 +11,8 @@
 Бесконечные вертикальные процедурно генерируемые подиумы от -XY к +XY.
 
 [Podiums on Babylon.js (Version 2 - Endless procedurally generated podiums -XY and +XY) | Babylon.js Playground](https://playground.babylonjs.com/#1EKNMV#1)
+
+Бесконечные процедурно генерируемые крестовые подиумы -XYZ к +XYZ версия
+
+[Podiums on Babylon.js (Version 3 - Endless procedurally generated Cross Podiums XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#6EKDKM)
+
