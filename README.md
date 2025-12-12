@@ -4,7 +4,7 @@
 
 [Podiums on Babylon.js (Version 0 - Endless procedurally generated podiums -X and +X)](https://playground.babylonjs.com/#QEELW6#0)
 
-Теперь нужно сделать не толкьо в линейку но и в обе стороны по -XZ и по +XZ.
+Теперь нужно сделать не только в линейку но и в обе стороны по -XZ и по +XZ.
 
 [Podiums on Babylon.js (Version 1 - Endless procedurally generated podiums -XZ and +XZ) | Babylon.js Playground](https://playground.babylonjs.com/#MQLWY4)
 
@@ -20,6 +20,6 @@
 
 [Podiums on Babylon.js (Version 4 - Endless procedurally generated podium X+ version) | Babylon.js Playground](https://playground.babylonjs.com/#MW1WU9#0)
 
-Бесконечная процедурно генерируемая вертикальная версия подума X+ в одну сторону.
+Бесконечная процедурно генерируемая вертикальная версия подиума X+ в одну сторону.
 
 [Podiums on Babylon.js (Version 5 - An infinite, procedurally generated vertical version of the X+ one-way podium) | Babylon.js Playground](https://playground.babylonjs.com/#2ARL17)
