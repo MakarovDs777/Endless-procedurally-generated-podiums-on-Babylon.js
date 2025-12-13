@@ -27,3 +27,7 @@
 Бесконечная процедурно генерируемая вертикальная версия подиума X+ в одну сторону с координатным таблом перемещения.
 
 [Podiums on Babylon.js(Version 6-Endless procedurally generated vertical version of the X OneWay podium+Coordinate board) | Babylon.js Playground](https://playground.babylonjs.com/#VXD9FY)
+
+Бесконечные процедурные подиумы в ряд с номерами по X оси.
+
+[Podiums on Babylon.js (Version 7 - Endless procedural podiums in a row with numbers on the X axis) | Babylon.js Playground](https://playground.babylonjs.com/#MZIJGQ)
